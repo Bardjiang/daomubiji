@@ -1,4 +1,4 @@
 class Test_002():
 
     def test_002(self):
-        assert 1
+        assert 0
